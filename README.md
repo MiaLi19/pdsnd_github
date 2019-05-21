@@ -9,7 +9,9 @@ This was the project for the Python section of Udacity's Programming for Data Sc
 
 ### Files used
 chicago.csv [provided]
+
 new_york_city.csv [provided]
+
 washington.csv [provided]
 
 ### Credits
